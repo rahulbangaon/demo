@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    margin-top: 50px;
+    padding: 30px;
+}
+.nav-list{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+h1{
+    margin: 0;
+}
+
+li{
+    list-style: none;
+}

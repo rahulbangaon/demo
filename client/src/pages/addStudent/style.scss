@@ -1,0 +1,28 @@
+.input-form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.box{
+    border: 1px solid gray;
+    padding: 40px 20px;
+    width: 400px;
+    background: whitesmoke;
+}
+
+h1{
+    margin-bottom: 20px;
+    color: rgb(48, 5, 48);
+}
+
+button{
+    margin-top: 20px;
+    width: 30%;
+    padding: 10px 30px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: rgb(48, 5, 48);
+}
